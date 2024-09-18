@@ -50,5 +50,11 @@
 <img src="https://github.com/user-attachments/assets/09956a67-bba3-4ba9-bd93-aef5b9e4e280" width="80%" height="80%" alt="PNP Fuzz Face with Power Supply Mod Diagram" />
 <br/>
 
-## 30-100pf Capacitor Across Transistor Base and Collector
-<h5>The effect of adding a 30-100pf capacitor across the base and collector of Q2 is a reduction in high frequency gain. This is normally done to silicon transistors to add warmth similar to how germanium transistors made the fuzz face sound.<h5>
+## 40-100pf Capacitor Across Transistor Base and Collector Mod
+<h5>The effect of adding a 40-100pf capacitor across the base and collector of Q2 is a reduction in high frequency gain. This is normally done to silicon transistors to add warmth similar to how germanium transistors sound in a fuzz face.<h5>
+
+<img src="https://github.com/user-attachments/assets/aacce2ef-8cc2-4876-b021-cf631884eceb" width="80%" height="80%" alt="PNP Fuzz Face with Power Supply Mod Diagram" />
+<br/>
+
+# Closing Remarks
+<h6> &emsp; As you can see, the fuzz face's iconic tone can be created and modified with a very simple circuit. There are countless more mods out there on the internet done by different companies and guitarists alike to add something new to the iconic fuzz face. As I test and discover new fuzz face mods, I will update the repository as nessesary.
