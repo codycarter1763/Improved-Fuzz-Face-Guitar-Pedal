@@ -38,14 +38,17 @@
 - 1 1kΩ Linear Potentiometer
 - 1 500kΩ Logarithmic Potentiometer
 
-# Circuit Diagrams
+# Circuit Diagrams and Common Mods
 
 ## NPN Fuzz Face
 <img src="https://github.com/user-attachments/assets/05958d95-4a8d-43b0-9759-f8c560bb8416" width="80%" height="80%" alt="NPN Fuzz Face Diagram" />
 <br/>
 
 
-## PNP Fuzz Face with Power Supply Mod
+## PNP Fuzz Face with Power Supply Mod 
+<h5>This is the original design of the fuzz face pedal, but with a power supply addition to create a clean isolated positive ground to work with standard pedal power supplies.<h5>
 <img src="https://github.com/user-attachments/assets/09956a67-bba3-4ba9-bd93-aef5b9e4e280" width="80%" height="80%" alt="PNP Fuzz Face with Power Supply Mod Diagram" />
 <br/>
 
+## 30-100pf Capacitor Across Transistor Base and Collector
+<h5>The effect of adding a 30-100pf capacitor across the base and collector of Q2 is a reduction in high frequency gain. This is normally done to silicon transistors to add warmth similar to how germanium transistors made the fuzz face sound.<h5>
