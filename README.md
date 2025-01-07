@@ -16,7 +16,17 @@
   <img src="https://github.com/user-attachments/assets/e813de84-a580-4ab7-9b75-7c9c72f48f73" width="40%" height="40%" alt="Left Image">
   <img src="https://github.com/user-attachments/assets/3579c1e7-0285-4244-b2e0-2b88686eec85" width="48%" height="48%" alt="Right Image">
 </p>
-  
+
+<h1>Quick Thanks To PCBWay</h1>
+<h6> &emsp;My project was gladly sponsored by PCBWay. PCBWay has provided professional solutions to students and electronics enthusiasts, and I believe that their sponsorship would be essential to easy and reliable construction of Fuzz Face PCBs. Such boards will allow for removability in case of failure or modification. It’s an honor to share the results with the PCBWay community and contribute our project to their platform.  <br>
+ <br><h6>
+
+![image](https://github.com/user-attachments/assets/3253581c-9c10-4329-aa81-215169151ca1)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ac6593d3-f52b-4a3d-af04-ca67e7fd28df" width=60% height=60%>
+</p>
+
 <h1>Parts List</h1>
 <h6> &emsp;Originally the Fuzz Face incorporated PNP germanium transistors. This was because PNP germanium transistors were easier to make consistently and didn’t have any major leakage current like their NPN germanium counterpart. PNP was not an issue back then, since the pedal ran off a 9V battery. The problem comes from the standard center negative power supplies used for guitar pedals not being able to work with PNP without a major redesign of the circuit. This issue was fixed with NPN transistors being put in the circuit, making no difference sonically.
 <br/>
